@@ -1,13 +1,17 @@
-# Rsync
+# minimal rsync 
 
-A minimal rsync image based on alpine.
+This repository is meant to hold the `Dockerfile` for a minimal rsync installation powered by Alpine Linux.
 
-### Usage
+## Usage
 
-#### Container Parameters
+Run
 
-Run:
-```shell
+```sh
 docker run --rm devopsansiblede/rsync rsync --help
 ```
-to get a list of available commands.
+
+for a list of available commands
+
+## last built
+
+0000-00-00 00:00:00
